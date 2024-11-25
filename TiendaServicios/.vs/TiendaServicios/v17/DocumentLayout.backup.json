@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\carlos\\Personal\\sources\\MicroserviceTienda\\TiendaServicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A663B08-47CD-48B9-9867-FAC51E6DE9A1}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|c:\\carlos\\personal\\sources\\microservicetienda\\tiendaservicios\\tiendaservicios.api.libro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A663B08-47CD-48B9-9867-FAC51E6DE9A1}|TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj|solutionrelative:tiendaservicios.api.libro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\carlos\\Personal\\sources\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.Libro\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaServicios.Api.Libro\\Program.cs",
+              "ToolTip": "C:\\carlos\\Personal\\sources\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.Libro\\Program.cs",
+              "RelativeToolTip": "TiendaServicios.Api.Libro\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:03:02.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
